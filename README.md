@@ -36,7 +36,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshokReddy01&show_icons=true&hide_border=true" />
+<img align="left" alt="AshokReddy01 Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshokReddy01&show_icons=true&hide_border=true" />
 
 [website]: https://competitive-programming-512.blogspot.com
 [twitter]: https://twitter.com/AshokReddy01
